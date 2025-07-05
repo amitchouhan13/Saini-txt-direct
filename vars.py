@@ -3,9 +3,9 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "xxxxxxxx"))
-API_HASH = environ.get("API_HASH", "xxxxxxxxxxxxxxxxxxxx")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+API_ID = int(environ.get("API_ID", "27607585"))
+API_HASH = environ.get("API_HASH", "725f60b51e233703576199334610011a")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7912660700:AAGp-OG77gi5YbI-CDLO5QyzN0FQTmAJcOM")
 OWNER = int(environ.get("OWNER", "5666930893"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")
 LOG_CHANNEL = "-1002631537674" # log group me bot ko admin narur banaye full rights ke sath
